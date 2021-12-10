@@ -1,0 +1,50 @@
+.mo {
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.ko {
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+    padding: 0.4rem 4rem;
+    border-radius: 0.5rem;
+}
+
+.no {
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+h1 {
+    color: gray;
+}
+
+h2 {
+    color: gray;
+}
+
+h3 {
+    color: gray;
+}
+
+.bo {
+    color: gray;
+    text-decoration: none;
+}
+
+.vo {
+    color: gray;
+    text-decoration: none;
+}
+
+.ho {
+    color: gray;
+    text-decoration: none;
+}
